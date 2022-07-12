@@ -725,3 +725,14 @@ export const LABEL = 'label';
  * @final
  */
 export const FALLBACK = 'fallback';
+
+/**
+ * @property {String} VERTICAL
+ * @final
+ */
+export const VERTICAL = 'vertical';
+/**
+ * @property {String} HORIZONTAL
+ * @final
+ */
+export const HORIZONTAL = 'horizontal';
